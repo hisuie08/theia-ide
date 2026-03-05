@@ -16,7 +16,7 @@ Eclipse Theia IDE also serves as a template for building desktop-based products 
 [![Build Status](https://ci.eclipse.org/theia/buildStatus/icon?subject=latest&job=Theia2%2Fmaster)](https://ci.eclipse.org/theia/job/Theia2/job/master/)
 <!-- currently we have no working next job because next builds are not published -->
 <!-- [![Build Status](https://ci.eclipse.org/theia/buildStatus/icon?subject=next&job=theia-next%2Fmaster)](https://ci.eclipse.org/theia/job/theia-next/job/master/) -->
-
+[![Publish Theia IDE Docker Image](https://github.com/hisuie08/theia-ide/actions/workflows/publish-theia-ide-img.yml/badge.svg)](https://github.com/hisuie08/theia-ide/actions/workflows/publish-theia-ide-img.yml)
 [Main Theia Repository](https://github.com/eclipse-theia/theia)
 
 [Visit the Theia website](http://www.theia-ide.org) for more documentation: [Using the Theia IDE](https://theia-ide.org/docs/user_getting_started/), [Packaging Theia as a Desktop Product](https://theia-ide.org/docs/blueprint_documentation/).
